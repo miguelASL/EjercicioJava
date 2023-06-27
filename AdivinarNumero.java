@@ -2,7 +2,7 @@ package ejercicios;
 
 import java.util.Scanner;
 
-public class AdivinarNumeros {
+public class AdivinarNumero {
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
         int prediccion = 0;
